@@ -15,7 +15,7 @@ Latest Version Android Studio
 
 ## PROGRAM:
 
-```
+```java
 /*
 Program to print the text “Implicitintent”.
 Developed by: R K JAYA KRISNAA
